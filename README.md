@@ -1,0 +1,2 @@
+# KruskalMST
+Kruskal's Algorithm 
